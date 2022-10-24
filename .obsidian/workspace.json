@@ -1,36 +1,14 @@
 {
   "main": {
-    "id": "070e5c345190a441",
+    "id": "16a3f36434a47ee7",
     "type": "split",
     "children": [
       {
-        "id": "1b89c863167b9fdc",
+        "id": "6cd1e6757007408f",
         "type": "tabs",
         "children": [
           {
-            "id": "7be72ffc44e42c7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端性能优化/01 图片优化.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75d68325c45b52e8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
-          },
-          {
-            "id": "1a7b6313c58c23c6",
+            "id": "7e11b25da1986a5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,31 +18,22 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1574e8be7d28e615",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e2c383f32171f9cc",
+    "id": "75fee6bd47dd09e0",
     "type": "split",
     "children": [
       {
-        "id": "497babbf35a7765e",
+        "id": "af84e616a604d7c4",
         "type": "tabs",
         "children": [
           {
-            "id": "25c1424dd263cd92",
+            "id": "a17cb563325e49c2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -74,12 +43,12 @@
             }
           },
           {
-            "id": "40dd57a5be57da34",
+            "id": "e298fb2e8173d5c1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sequel",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +58,7 @@
             }
           },
           {
-            "id": "327021fe9bc62824",
+            "id": "fc339c074f492774",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -100,22 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 300
   },
   "right": {
-    "id": "b7025b508f514418",
+    "id": "b405babcd3fd1bc2",
     "type": "split",
     "children": [
       {
-        "id": "b66dad6b749c75ec",
+        "id": "dac40e6385803c00",
         "type": "tabs",
         "children": [
           {
-            "id": "9a75a077a773a257",
+            "id": "8d5ea6bae1b96275",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "backend_Master/01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,18 +97,19 @@
             }
           },
           {
-            "id": "a58aed8c380fcf5e",
+            "id": "a1535f2637cd211b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "backend_Master/01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "aa58b9d97df97fcb",
+            "id": "6f93afc6f6891d30",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,11 +120,13 @@
             }
           },
           {
-            "id": "578ea77a0624317a",
+            "id": "a522669138fa0677",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "backend_Master/01.md"
+              }
             }
           }
         ]
@@ -166,17 +139,6 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1574e8be7d28e615",
-  "lastOpenFiles": [
-    "backend_Master/01.md",
-    "backend_Master/Ｐｏｓｔｇｒｅｓ/01.md",
-    "golang爬虫.md",
-    "Golang/8.1 声明、初始化和 make.md",
-    "前端性能优化/01 图片优化.md",
-    "前端性能优化/02 HTML优化.md",
-    "Pasted image 20221013105249.png",
-    "boke技术选型.md",
-    "Golang/10.1 结构体定义.md",
-    "JavaScript高级概念/编写优化代码.md"
-  ]
+  "active": "7e11b25da1986a5d",
+  "lastOpenFiles": []
 }
