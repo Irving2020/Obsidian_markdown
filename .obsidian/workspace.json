@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend_Master/02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d3945ebd20df798",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "backend_Master/docker.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,13 +139,14 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8d3945ebd20df798",
+  "active": "360851b26cb53e41",
   "lastOpenFiles": [
     "backend_Master/03.md",
     "backend_Master/02.md",
+    "Pasted image 20221026094943.png",
+    "backend_Master/docker.md",
     "backend_Master/Ｐｏｓｔｇｒｅｓ/01.md",
     "backend_Master/01.md",
-    "backend_Master/docker.md",
     "Pasted image 20221025103922.png"
   ]
 }
