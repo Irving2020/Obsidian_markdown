@@ -17,7 +17,7 @@
 	![[Pasted image 20221026094943.png]]
 `
 	
-
+4、使用cmake提升效率 （Win：MINGW）
 
 
 
