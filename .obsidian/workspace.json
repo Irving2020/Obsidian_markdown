@@ -42,19 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7edffc8f96ad6af1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "后台管理系统/01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "后台管理系统/01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "后台管理系统/01.md"
+              }
             }
           }
         ]
@@ -167,7 +161,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7edffc8f96ad6af1",
+  "active": "2b169e5356ea663f",
   "lastOpenFiles": [
     "后台管理系统/01.md",
     "backend_Master/04.md",
