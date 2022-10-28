@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "2b169e5356ea663f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "后台管理系统/01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "00b620bb526b9d8b",
             "type": "leaf",
             "state": {
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,8 +163,9 @@
   },
   "active": "00b620bb526b9d8b",
   "lastOpenFiles": [
-    "后台管理系统/01.md",
     "backend_Master/04.md",
+    "后台管理系统/01.md",
+    "Appsflyer_Meeting_Makrdown/01.md",
     "backend_Master/03.md",
     "backend_Master/02.md",
     "backend_Master/01.md",
