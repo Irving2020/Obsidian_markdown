@@ -17,7 +17,12 @@
 	![[Pasted image 20221026094943.png]]
 `
 	
-4、使用cmake提升效率 （Win：MINGW）
+4、使用cmake提升效率 （Win：MINGW）、
+
+5、创建并启动容器并将宿主机文件映射到容器中
+	· docker run --name u16-d2 -d -p 8011:8011 -v D:\openresty-1.21.4.1-win64:/home ubuntu:16.04
+
+
 
 
 
