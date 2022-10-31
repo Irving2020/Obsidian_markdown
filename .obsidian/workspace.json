@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker_nginx/01.md",
+                "file": "backend_Master/docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker_nginx/01.md",
+                "file": "backend_Master/docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker_nginx/01.md",
+                "file": "backend_Master/docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker_nginx/01.md"
+                "file": "backend_Master/docker.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "0b2b04e7878774bf",
   "lastOpenFiles": [
+    "docker_nginx/01.md",
     "backend_Master/docker.md",
     "backend_Master/01.md",
     "backend_Master/02.md",
@@ -159,7 +160,6 @@
     "Appsflyer_Meeting_Makrdown/01.md",
     "后台管理系统/01.md",
     "backend_Master/Ｐｏｓｔｇｒｅｓ/01.md",
-    "Pasted image 20221026094943.png",
-    "Pasted image 20221025103922.png"
+    "Pasted image 20221026094943.png"
   ]
 }
