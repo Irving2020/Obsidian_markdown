@@ -20,55 +20,19 @@
             }
           },
           {
-            "id": "0b2b04e7878774bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "backend_Master/01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b75bf6de6017623b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PWA/techenology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53abb38abd9a1c6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "网易算法公开课/01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d12afe7e5236a3cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "后台管理系统/01.md",
+                "file": "瑞师周报/10月/10月第三周周报（17-21）：.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "后台管理系统/01.md",
+                "file": "瑞师周报/10月/10月第三周周报（17-21）：.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "后台管理系统/01.md",
+                "file": "瑞师周报/10月/10月第三周周报（17-21）：.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "后台管理系统/01.md"
+                "file": "瑞师周报/10月/10月第三周周报（17-21）：.md"
               }
             }
           }
@@ -185,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d12afe7e5236a3cc",
+  "active": "b75bf6de6017623b",
   "lastOpenFiles": [
+    "PWA/techenology.md",
+    "后台管理系统/01.md",
     "瑞师周报/10月/10月第四周周报（24-28）：.md",
     "瑞师周报/10月/10月第三周周报（17-21）：.md",
     "backend_Master/Ｐｏｓｔｇｒｅｓ/01.md",
     "网易算法公开课/01.md",
-    "PWA/techenology.md",
     "backend_Master/01.md",
     "backend_Master/docker.md",
     "docker_nginx/01.md",
-    "backend_Master/02.md",
-    "backend_Master/03.md"
+    "backend_Master/02.md"
   ]
 }
