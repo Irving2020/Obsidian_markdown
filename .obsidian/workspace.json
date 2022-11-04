@@ -71,12 +71,8 @@
             "id": "f7b71dde67586e78",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "瑞师周报/10月/10月第四周周报（24-28）：.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -146,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "瑞师周报/10月/10月第四周周报（24-28）：.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "瑞师周报/10月/10月第四周周报（24-28）：.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "瑞师周报/10月/10月第四周周报（24-28）：.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -199,15 +191,15 @@
   },
   "active": "f7b71dde67586e78",
   "lastOpenFiles": [
-    "瑞师周报/10月/10月第三周周报（17-21）：.md",
     "瑞师周报/10月/10月第四周周报（24-28）：.md",
+    "瑞师周报/10月/10月第三周周报（17-21）：.md",
+    "backend_Master/Ｐｏｓｔｇｒｅｓ/01.md",
     "网易算法公开课/01.md",
     "PWA/techenology.md",
     "backend_Master/01.md",
     "backend_Master/docker.md",
     "docker_nginx/01.md",
     "backend_Master/02.md",
-    "backend_Master/03.md",
-    "backend_Master/04.md"
+    "backend_Master/03.md"
   ]
 }
