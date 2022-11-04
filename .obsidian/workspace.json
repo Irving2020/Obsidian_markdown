@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "瑞师周报/10月/10月第四周周报（24-28）：.md",
+                "file": "后台管理系统/01.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "adx",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "瑞师周报/10月/10月第四周周报（24-28）：.md",
+                "file": "后台管理系统/01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "瑞师周报/10月/10月第四周周报（24-28）：.md",
+                "file": "后台管理系统/01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "瑞师周报/10月/10月第四周周报（24-28）：.md"
+                "file": "后台管理系统/01.md"
               }
             }
           }
@@ -185,10 +186,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a17cb563325e49c2",
+  "active": "e298fb2e8173d5c1",
   "lastOpenFiles": [
-    "瑞师周报/10月/10月第三周周报（17-21）：.md",
     "瑞师周报/10月/10月第四周周报（24-28）：.md",
+    "瑞师周报/10月/10月第三周周报（17-21）：.md",
     "backend_Master/Ｐｏｓｔｇｒｅｓ/01.md",
     "网易算法公开课/01.md",
     "PWA/techenology.md",
