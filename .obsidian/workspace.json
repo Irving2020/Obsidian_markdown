@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adx",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,7 +185,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e298fb2e8173d5c1",
+  "active": "d12afe7e5236a3cc",
   "lastOpenFiles": [
     "瑞师周报/10月/10月第四周周报（24-28）：.md",
     "瑞师周报/10月/10月第三周周报（17-21）：.md",
