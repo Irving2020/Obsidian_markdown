@@ -138,6 +138,8 @@
   },
   "active": "00b620bb526b9d8b",
   "lastOpenFiles": [
+    "docker_nginx/01.md",
+    "backend_Master/docker.md",
     "瑞师周报/10月/10月第四周周报（24-28）：.md",
     "前端供应链攻击分类.md",
     "瑞师周报/10月/10月第四周周报（24-28）.md",
@@ -145,8 +147,6 @@
     "PWA/techenology.md",
     "后台管理系统/01.md",
     "backend_Master/Ｐｏｓｔｇｒｅｓ/01.md",
-    "网易算法公开课/01.md",
-    "backend_Master/01.md",
-    "backend_Master/docker.md"
+    "网易算法公开课/01.md"
   ]
 }
