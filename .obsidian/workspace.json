@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/Untitled.md",
+                "file": "LowCode.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logs/Untitled.md",
+                "file": "LowCode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logs/Untitled.md",
+                "file": "LowCode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logs/Untitled.md"
+                "file": "LowCode.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "d5b40c2d06fd48d2",
   "lastOpenFiles": [
+    "logs/Untitled.md",
     "backend_Master/docker.md",
     "docker_nginx/01.md",
     "瑞师周报/10月/10月第四周周报（24-28）：.md",
@@ -159,7 +160,6 @@
     "瑞师周报/10月/10月第三周周报（17-21）：.md",
     "PWA/techenology.md",
     "后台管理系统/01.md",
-    "backend_Master/Ｐｏｓｔｇｒｅｓ/01.md",
-    "网易算法公开课/01.md"
+    "backend_Master/Ｐｏｓｔｇｒｅｓ/01.md"
   ]
 }
