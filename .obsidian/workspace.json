@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b851deb00191f92f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nginx/HTTP请求处理时的11个阶段.md",
+                "file": "zz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nginx/HTTP请求处理时的11个阶段.md",
+                "file": "zz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nginx/HTTP请求处理时的11个阶段.md"
+                "file": "zz.md"
               }
             }
           }
@@ -136,10 +149,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ea65844b620cb00f",
+  "active": "b851deb00191f92f",
   "lastOpenFiles": [
-    "PWA/techenology.md",
     "Nginx/HTTP请求处理时的11个阶段.md",
+    "PWA/techenology.md",
     "backend_Master/01.md",
     "LowCode.md",
     "logs/Untitled.md",
